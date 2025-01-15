@@ -1,0 +1,17 @@
+ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.span-text {
+    width: 200px;
+}
+
+.blur {
+    color: red;
+}
+
+.my_disabled {
+    cursor: not-allowed !important;
+}
